@@ -35,7 +35,7 @@
 ## Програма 1
 
 ### Діаграма алгоритму:
-<img width="930" height="942" alt="Lab1 1 diagram" src="https://github.com/user-attachments/assets/e86bad34-9b12-46c9-a74c-bc44babe85a8" />
+
 ### Текст програми:
 ```c
 #include <stdio.h>
